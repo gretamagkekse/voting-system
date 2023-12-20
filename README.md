@@ -21,5 +21,5 @@ To start the Next.js development server.
 To start the api.py.
 
 #### `php artisan serve`
-To run the server on [http://127.0.0.1:8000].
+To run the server on [http://127.0.0.1:8001].
 
