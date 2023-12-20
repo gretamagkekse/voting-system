@@ -13,6 +13,7 @@ class AppController extends Controller
     public function welcome(){
         return view('welcome');
     }
+
     public function createPersonIndex()
     {
         return view('create-person');
