@@ -6,6 +6,12 @@ This project shows a simple voting system in Laravel using a Python API for back
 
 ![Screenshot](poll-pulse-main.png)
 
+![Screenshot](poll-pulse-add.png)
+
+![Screenshot](poll-pulse-vote.png)
+
+![Screenshot](poll-pulse-results.png)
+
 ### Quickstart
 
 #### `npm install`
