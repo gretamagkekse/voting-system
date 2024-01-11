@@ -2,7 +2,7 @@
 
 ## Voting system in Laravel
 
-This project shows a simple voting system in Laravel using a Python API for backend services.
+This project shows a simple voting system in Laravel using a FastAPI Python script for backend services.
 
 ![Screenshot](poll-pulse-main.png)
 
