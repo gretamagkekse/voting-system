@@ -14,8 +14,7 @@ To install packages, that the project depends on.
 #### `composer install`
 To read the composer.json file from the current directory, resolves the dependencies, and installs them into vendor.
 
-#### `npm run dev`
-To start the Next.js development server.
+#### `npm run build`
 
 #### `uvicorn api:api --reload`
 To start the api.py.
